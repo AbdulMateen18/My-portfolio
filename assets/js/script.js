@@ -67,7 +67,7 @@ document.addEventListener("visibilitychange", function () {
     document.title = "Portfolio | Abdul Mateen";
     $("#favicon").attr("href", "assets/images/favicon.jpg");
   } else {
-    document.title = "Portfolio | Tanveer Ahmad";
+    document.title = "Portfolio | Abdul Mateen";
     $("#favicon").attr("href", "assets/images/favicon.jpg");
   }
 });
