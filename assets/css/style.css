@@ -311,6 +311,9 @@ header .navbar ul li a:hover {
 .social-icons a.github:hover {
   background-color: green;
 }
+.social-icons a.github:hover {
+  background-color: green;
+}
 .social-icons a.twitter:hover {
   background-color: #00aced;
 }
